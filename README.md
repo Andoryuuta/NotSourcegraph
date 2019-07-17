@@ -1,12 +1,12 @@
 # Not Sourcegraph
-An application for detecting if in image is Sourcegraph or not.    
+An application for detecting if an image is Sourcegraph or not.    
 
 ![gif](https://github.com/Andoryuuta/NotSourcegraph/raw/master/ss/not_sg.gif)
 
 # Usage
 * Requires Python3 & venv
 
-*Nix:
+## *Nix:
 1. `git clone https://github.com/Andoryuuta/NotSourcegraph.git`
 2. `cd NotSourcegraph`
 3. `python3 -m venv env`
@@ -14,7 +14,7 @@ An application for detecting if in image is Sourcegraph or not.
 5. `pip3 install -r requirements.txt`
 6. `python NotSourcegraph.py`
 
-Windows:
+## Windows:
 1. `git clone https://github.com/Andoryuuta/NotSourcegraph.git`
 2. `cd NotSourcegraph`
 3. `py -3 -m venv env`
